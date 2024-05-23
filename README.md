@@ -1,0 +1,1 @@
+This is my Ph.D. thesis on Lung cancer diagnosis using AI. I have 14 worked on 14 different datasets and I have them right now with me. Also, if anyone requires help for dataset or models that I will be eager to help them. I have not shared work of thesis here as files are of large size and few work is still unpublished.
